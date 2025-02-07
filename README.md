@@ -1,2 +1,3 @@
 # .globbal-os
-Globbal ST Corp. GlobbalOS.
+GlobbalOS - это первая крупнейшая операционая система создана компании Globbal ST или Globbal. Эта OC крупнее чем другие операционные системы. Также GlobbalOS создан на основе Linux. Также скоро будут появлятся файлы OS. Если вы хотите стать бета тестиром пожалуйста перейдите по ссылке ниже. 
+https://nececete.tilda.ws/globbaloc/verification
